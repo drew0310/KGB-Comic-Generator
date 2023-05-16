@@ -3,7 +3,7 @@
 
 
 ## Introduction
-An application designed to help users create their own comic image stories. Takes in the premise of the plot and a set of plot keywords from the user, generates a prompt for GPT-3 to write a random textual outline of the story using the given keywords, and generates comic illustrations from the text using DALL-E 2. Consists of Python back-end APIs connecting to the OpenAI APIs and a front-end website for user interaction.  
+An application designed to help users create their own comic image stories. Takes in the premise of the plot and a set of plot keywords from the user, generates a prompt for GPT-3 to write a random textual outline of the story using the given keywords, and generates comic illustrations from the text using DALL-E 2. Consists of Python back-end APIs connecting to the OpenAI APIs (GPT-3 and DALL-E) and a front-end website for user interaction.  
 
 
 
